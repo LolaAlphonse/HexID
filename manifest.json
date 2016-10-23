@@ -2,3 +2,4 @@
   "name": "HexID",
   "version": "1.0",
   "description": "A small Chrome Extension, that allows the user to hover over a Hex Colour ID inside Chrome and will display a 100px X 100px square of said colour.",
+}
